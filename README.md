@@ -2,4 +2,4 @@
 
 ### Link to the website
 
-> https://github.com/xLastNightx/Hotels.git
+> https://xlastnightx.github.io/Hotels/
